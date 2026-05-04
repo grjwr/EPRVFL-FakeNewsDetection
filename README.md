@@ -88,7 +88,7 @@ EPRVFL-FakeNewsDetection/
 ### 1. Install dependencies
 
 ```bash
-git clone https://github.com/grjwr/EPRVFL-FakeNewsDetection.git
+git clone https://github.com/grjwr/eprvfl.git
 cd EPRVFL-FakeNewsDetection
 pip install -r requirements.txt
 ```
