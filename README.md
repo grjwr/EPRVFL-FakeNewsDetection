@@ -207,7 +207,7 @@ If you use this code in your research, please cite:
 
 **Rajiv Kumar Gurjwar**  
 PhD Research Fellow, SVNIT Surat  
-[LinkedIn](https://www.linkedin.com/in/rajiv-gurjwar) · [Google Scholar](https://scholar.google.com/citations?user=_3_1ExAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2292-8972)
+[Google Scholar](https://scholar.google.com/citations?user=_3_1ExAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2292-8972) · [LinkedIn](https://www.linkedin.com/in/rajiv-gurjwar)
 
 > *This repository contains replication code for the published paper only.*  
 > *Extended research code is not included.*
