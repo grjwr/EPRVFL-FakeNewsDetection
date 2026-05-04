@@ -70,7 +70,7 @@ BERT Embeddings  [n × 768]
 ## Repository structure
 
 ```
-EPRVFL-FakeNewsDetection/
+eprvfl/
 ├── model/
 │   └── eprvfl.py           ← EPRVFL class (core model from the paper)
 ├── baselines/
@@ -89,7 +89,7 @@ EPRVFL-FakeNewsDetection/
 
 ```bash
 git clone https://github.com/grjwr/eprvfl.git
-cd EPRVFL-FakeNewsDetection
+cd eprvfl
 pip install -r requirements.txt
 ```
 
