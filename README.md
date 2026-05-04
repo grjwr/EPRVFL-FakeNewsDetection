@@ -5,7 +5,7 @@
 > R. K. Gurjwar, A. Kumar, U. P. Rao,  
 > *"EPRVFL: A fast and scalable model for real-time fake news detection,"*  
 > **Pattern Recognition Letters**, vol. 196, pp. 267–273, 2025.  
-> DOI: [10.1016/j.patrec.2025.02.009](https://doi.org/10.1016/j.patrec.2025.02.009)
+> DOI: [10.1016/j.patrec.2025.06.006](https://doi.org/10.1016/j.patrec.2025.06.006)
 
 ---
 
@@ -190,13 +190,14 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{gurjwar2025eprvfl,
-  title   = {EPRVFL: A fast and scalable model for real-time fake news detection},
-  author  = {Gurjwar, Rajiv Kumar and Kumar, Ajay and Rao, U. P.},
-  journal = {Pattern Recognition Letters},
-  volume  = {196},
-  pages   = {267--273},
-  year    = {2025},
-  doi     = {10.1016/j.patrec.2025.02.009}
+  title={EPRVFL: A fast and scalable model for real-time fake news detection},
+  author={Gurjwar, Rajiv Kumar and Kumar, Alok and Rao, Udai Pratap},
+  journal={Pattern Recognition Letters},
+  volume={196},
+  pages={267--273},
+  year={2025},
+  publisher={Elsevier},
+  doi = {10.1016/j.patrec.2025.06.006},
 }
 ```
 
