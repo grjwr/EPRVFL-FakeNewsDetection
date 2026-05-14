@@ -35,6 +35,8 @@ This design makes EPRVFL significantly faster than deep learning alternatives (G
 ## Architecture
 
 ```
+<img width="1363" height="524" alt="Architecture of Proposed EPRVFL Model" src="https://github.com/user-attachments/assets/689497f3-4b7c-4666-9416-41d25080f6d6" />
+
 Raw News Text
       │
       ▼
