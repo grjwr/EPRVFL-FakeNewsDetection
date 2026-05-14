@@ -200,7 +200,8 @@ If you use this code in your research, please cite:
   doi = {10.1016/j.patrec.2025.06.006},
 }
 ```
-
+## Related Work
+- [LLM Benchmark: Mistral-7B LoRA vs EPRVFL](https://github.com/grjwr/LLM-FakeNews-Benchmark)
 ---
 
 ## Author
@@ -208,9 +209,6 @@ If you use this code in your research, please cite:
 **Rajiv Kumar Gurjwar**  
 PhD Research Fellow, SVNIT Surat  
 [Google Scholar](https://scholar.google.com/citations?user=_3_1ExAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2292-8972) · [LinkedIn](https://www.linkedin.com/in/rajiv-gurjwar)
-
-## Related Work
-- [LLM Benchmark: Mistral-7B LoRA vs EPRVFL](https://github.com/grjwr/LLM-FakeNews-Benchmark)
 
 > *This repository contains replication code for the published paper only.*  
 > *Extended research code is not included.*
