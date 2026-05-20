@@ -34,34 +34,7 @@ This design makes EPRVFL significantly faster than deep learning alternatives (G
 
 ## Architecture
 <img width="1363" height="524" alt="Architecture of Proposed EPRVFL Model" src="https://github.com/user-attachments/assets/689497f3-4b7c-4666-9416-41d25080f6d6" />
-```
-Raw News Text
-      │
-      ▼
-BERT Encoder (bert-base-uncased)
-      │  mean-pool over tokens
-      ▼
-BERT Embeddings  [n × 768]
-      │
-      ├────────────────────────────┐
-      │                            │
-      ▼                            ▼
- Original X                 RVFL Hidden Layer
- [n × 768]              tanh(X @ W_random + b)
-                              [n × 23]
-      │                            │
-      └──────────┬─────────────────┘
-                 │  concatenate
-                 ▼
-         H = [X | H_hidden]   [n × 791]
-                 │
-                 ▼
-     Output weights β (closed-form)
-     β = (HᵀH + λI)⁻¹ Hᵀ y
-                 │
-                 ▼
-           Prediction
-```
+
 
 **Why closed-form?** No gradient descent — output weights are solved analytically using the Moore-Penrose pseudoinverse. This makes EPRVFL extremely fast at inference.
 
