@@ -183,6 +183,12 @@ If you use this code in your research, please cite:
 PhD Research Fellow, SVNIT Surat  
 [Google Scholar](https://scholar.google.com/citations?user=_3_1ExAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2292-8972) · [LinkedIn](https://www.linkedin.com/in/rajiv-gurjwar)
 
+**Alok Kumar**  
+Assistant Proffesor, SVNIT Surat
+
+**Udai Pratap Rao**  
+Assosiate Proffesor, NIT Patna
+
 > *This repository contains replication code for the published paper only.*  
 > *Extended research code is not included.*
 
